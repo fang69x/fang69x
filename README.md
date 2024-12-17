@@ -70,12 +70,6 @@ Welcome to my GitHub! I'm a **Flutter Developer** with experience in building **
 
 ---
 
-### 📊 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fang69x&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fang69x&layout=compact&theme=dark)
-
----
 
 ### 🌐 **Connect with Me**
 - [LinkedIn](https://www.linkedin.com/in/kislay-74000b228/)
