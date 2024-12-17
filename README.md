@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm **Kislay**!
 
-Welcome to my GitHub! I'm an enthusiastic **Flutter Developer** and tech enthusiast with a strong background in building mobile and backend applications. I’m passionate about **clean code**, building efficient solutions, and exploring new technologies.
+Welcome to my GitHub! I'm a **Flutter Developer** with experience in building **mobile and backend applications**. I'm passionate about writing clean code and exploring new technologies. Currently, I'm looking for a full-time role or internship as an SDE or Flutter Developer.
 
 ---
 
