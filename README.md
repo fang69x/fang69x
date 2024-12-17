@@ -4,11 +4,11 @@ Welcome to my GitHub! I'm an enthusiastic **Flutter Developer** and tech enthusi
 
 ---
 
-### 🚀 **About Me**
-- 🎓 **Electronics & Communication Engineering** | Jaypee Institute of Information Technology (2021-2025)
-- 💼 **Internship**: Hands-on experience at **DMRC** in Unmanned Train Operation systems.
-- 💻 I specialize in **app development** with **Flutter**, **Firebase**, and **backend development** with **Node.js** and **Express.js**.
-- 🔭 Currently exploring **Riverpod** for Flutter state management and diving deeper into full-stack development.
+### 🚀 **About Me**  
+- 🎓 **Electronics & Communication Engineering** | Jaypee Institute of Information Technology (2021-2025)  
+- 💻 I specialize in **app development** with **Flutter**, **Firebase**, and **backend development** with **Node.js** and **Express.js** and**MongoDb**.  
+- 🔭 Currently exploring **Riverpod** for Flutter state management and diving deeper into full-stack development.  
+- 👨‍💻 I am looking for a **full-time role** or **internship** as an **SDE** or **App Developer** to contribute my skills and learn from real-world challenges.  
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm an enthusiastic **Flutter Developer** and tech enthusi
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
-**Tools**: Android Studio | Visual Studio Code | GitHub | DaVinci Resolve | Adobe After Effects
+
 
 ---
 
@@ -30,15 +30,43 @@ Welcome to my GitHub! I'm an enthusiastic **Flutter Developer** and tech enthusi
 
 1. **Docy** - *Document Storage & Management App*  
    - 🔗 [GitHub Repo](https://github.com/fang69x/Docy) | 📥 [Download APK](https://github.com/fang69x/Docy/releases/download/v1.0.0/Docy.apk)  
-   - Features: Firebase Auth, file uploads (single, multiple, folder), efficient document retrieval with Firestore.
+   - **Features**:  
+     - Authentication using **Firebase**.  
+     - Email verification via OTP using **Node.js** and **Express.js**.  
+     - File upload, download, and view options.  
+     - Custom folder creation and uploading files into specific folders.  
+     - Efficient document retrieval with **Firestore** for metadata organization.  
 
-2. **Flutter Todo App** - *Cross-Platform Todo Application*  
+2. **Flutter FullStack E-Commerce App** - *Ready to launch e-Commerce app with admin panel*  
+   - 🔗 [GitHub Repo]([https://github.com/fang69x/TooDu](https://github.com/fang69x/eCommerceApp))  
+   - **Features**:  
+     - Flutter frontend for a seamless user experience.  
+     - Node.js and MongoDB backend for robust data management.  
+     - Real-time updates via the **Admin Panel** for:
+       - Notifications
+       - New items in the store
+       - Delivery status tracking  
+     - Currently in progress.  
+     - Payment Gateway integration using **Stripe**.  
+
+3. **Flutter Todo App** - *Cross-Platform Todo Application*  
    - 🔗 [GitHub Repo](https://github.com/fang69x/TooDu)  
-   - Features: Flutter frontend, Node.js + MongoDB backend, JWT authentication for secure sessions.
+   - **Features**:  
+     - Flutter frontend  
+     - Node.js + MongoDB backend  
+     - JWT authentication for secure sessions  
 
-3. **FeastEase** - *Food Delivery App*  
+4. **FeastEase** - *Food Delivery App*  
    - 🔗 [GitHub Repo](https://github.com/fang69x/feastease)  
-   - Features: Firebase auth, Firestore receipts, cart customization, location tracking.
+   - **Features**:  
+     - Firebase authentication  
+     - Firestore receipts  
+     - Cart customization  
+     - Location tracking  
+   - **Currently Implementing**: Payment Gateway integration using **Stripe**  
+
+---
+
 
 ---
 
@@ -49,15 +77,10 @@ Welcome to my GitHub! I'm an enthusiastic **Flutter Developer** and tech enthusi
 
 ---
 
-### 🎓 **Education**
-- **B.Tech in Electronics and Communication Engineering**  
-  Jaypee Institute of Information Technology | **CGPA**: 7.7  
-
----
-
 ### 🌐 **Connect with Me**
 - [LinkedIn](https://www.linkedin.com/in/kislay-74000b228/)
 - [GitHub](https://github.com/fang69x)
+- [Twitter(X)](https://x.com/fang69x)
 - [Email](mailto:kislayk12@gmail.com)
 
 ---
