@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm a **Flutter Developer** with experience in building **
 ### 🛠️ **Projects**
 
 1. **Docy** - *Document Storage & Management App*  
-   - 🔗 [GitHub Repo](https://github.com/fang69x/Docy) | 📥 [Download APK](https://github.com/fang69x/Docy/releases/download/v1.0.0/Docy.apk)  
+   - 📥 [Download APK](https://github.com/fang69x/Docy/releases/download/v1.0.0/Docy.apk)  
    - **Features**:  
      - Authentication using **Firebase**.  
      - Email verification via OTP using **Node.js** and **Express.js**.  
@@ -38,7 +38,6 @@ Welcome to my GitHub! I'm a **Flutter Developer** with experience in building **
      - Efficient document retrieval with **Firestore** for metadata organization.  
 
 2. **Flutter FullStack E-Commerce App** - *Ready to launch e-Commerce app with admin panel*  
-   - 🔗 [GitHub Repo]([https://github.com/fang69x/TooDu](https://github.com/fang69x/eCommerceApp))  
    - **Features**:  
      - Flutter frontend for a seamless user experience.  
      - Node.js and MongoDB backend for robust data management.  
@@ -49,15 +48,13 @@ Welcome to my GitHub! I'm a **Flutter Developer** with experience in building **
      - Currently in progress.  
      - Payment Gateway integration using **Stripe**.  
 
-3. **Flutter Todo App** - *Cross-Platform Todo Application*  
-   - 🔗 [GitHub Repo](https://github.com/fang69x/TooDu)  
+3. **Flutter Todo App** - *Cross-Platform Todo Application*   
    - **Features**:  
      - Flutter frontend  
      - Node.js + MongoDB backend  
      - JWT authentication for secure sessions  
 
 4. **FeastEase** - *Food Delivery App*  
-   - 🔗 [GitHub Repo](https://github.com/fang69x/feastease)  
    - **Features**:  
      - Firebase authentication  
      - Firestore receipts  
