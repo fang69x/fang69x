@@ -46,7 +46,8 @@ Welcome to my GitHub! I'm a **Full Stack Developer** with experience in building
        - New items in the store
        - Delivery status tracking  
      - Currently in progress.  
-     - Payment Gateway integration using **Stripe**.  
+     - Payment Gateway integration using **Stripe**.
+     - Admin Panel -> https://e-commerce-app-1mu2.vercel.app/  
 
 3. **Flutter Todo App** - *Cross-Platform Todo Application*   
    - **Features**:  
