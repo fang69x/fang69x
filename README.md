@@ -1,80 +1,56 @@
-### 👋 Hi there, I'm **Kislay**!
-
-Welcome to my GitHub! I'm a **Full Stack Developer** with experience in building **mobile and backend applications**. I'm passionate about writing clean code and exploring new technologies. Currently, I'm looking for a full-time role or internship as an SDE or Flutter Developer.
-
----
-
-### 🚀 **About Me**  
-- 🎓 **Electronics & Communication Engineering** | Jaypee Institute of Information Technology (2021-2025)  
-- 💻 I specialize in **app development** with **Flutter**, **Firebase**, and **backend development** with **Node.js** and **Express.js** and**MongoDb**.  
-- 🔭 Currently exploring **Riverpod** for Flutter state management and diving deeper into full-stack development.  
-- 👨‍💻 I am looking for a **full-time role** or **internship** as an **SDE** or **App Developer** to contribute my skills and learn from real-world challenges.  
+<h1 align="center">Hey 👋, I'm Kislay</h1>
+<p align="center">
+  🚀 Full Stack Developer | Flutter & Node.js | Open to SDE Internships/Full-time Roles
+</p>
 
 ---
 
-### 💡 **Skills & Tech Stack**
+### 💼 About Me
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- 🎓 Final-year Electronics & Communication Engineering student @ JIIT (2021–2025)
+- 🛠 Building full-stack apps with **Flutter**, **Node.js**, **Express**, and **MongoDB**
+- 🔍 Exploring scalable backend architecture, CI/CD, and real-world API design
+- 📬 Actively looking for **SDE internships** and **full-time roles**
+
+---
+
+### ⚙️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-
-
-
----
-
-### 🛠️ **Projects**
-
-1. **Docy** - *Document Storage & Management App*  
-   - 📥 [Download APK](https://github.com/fang69x/Docy/releases/download/v1.0.0/Docy.apk)  
-   - **Features**:  
-     - Authentication using **Firebase**.  
-     - Email verification via OTP using **Node.js** and **Express.js**.  
-     - File upload, download, and view options.  
-     - Custom folder creation and uploading files into specific folders.  
-     - Efficient document retrieval with **Firestore** for metadata organization.  
-
-2. **Flutter FullStack E-Commerce App** - *Ready to launch e-Commerce app with admin panel*  
-   - **Features**:  
-     - Flutter frontend for a seamless user experience.  
-     - Node.js and MongoDB backend for robust data management.  
-     - Real-time updates via the **Admin Panel** for:
-       - Notifications
-       - New items in the store
-       - Delivery status tracking  
-     - Currently in progress.  
-     - Payment Gateway integration using **Stripe**.
-     - Admin Panel -> https://e-commerce-app-1mu2.vercel.app/  
-
-3. **Flutter Todo App** - *Cross-Platform Todo Application*   
-   - **Features**:  
-     - Flutter frontend  
-     - Node.js + MongoDB backend  
-     - JWT authentication for secure sessions  
-
-4. **FeastEase** - *Food Delivery App*  
-   - **Features**:  
-     - Firebase authentication  
-     - Firestore receipts  
-     - Cart customization  
-     - Location tracking  
-   - **Currently Implementing**: Payment Gateway integration using **Stripe**  
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Riverpod](https://img.shields.io/badge/Riverpod-1C1E26?style=flat&logo=flutter&logoColor=white)
 
 ---
 
+### 🧩 Featured Projects
+
+#### 🔖 [LinkVault](https://link-vault-avfk09q52-fang69xs-projects.vercel.app/) – Smart Bookmark Manager
+A full-stack web app to manage bookmarks with auth, tagging, search, and Flutter Web UI  
+Tech: `Flutter Web`, `Node.js`, `Express.js`, `MongoDB`, `JWT`, `Cloudinary`  
+🔗 [GitHub](https://github.com/fang69x/linkvault)
+
+#### 🛍️ [E-Commerce App](https://e-commerce-app-1mu2.vercel.app/) – Full-Stack E-Commerce Platform
+Flutter-based client app + Node.js/Express backend with a full-featured seller Admin Panel  
+Features: Product CRUD, search, filters, orders, Razorpay integration, OneSignal notifications  
+🔗 [GitHub](https://github.com/fang69x/eCommerceApp)
+
+#### 📄 [Docy](https://github.com/fang69x/Docy) – Document Management Mobile App
+Document scanner and organizer with Firebase + Node.js OTP auth  
+📥 [Download APK](https://github.com/fang69x/Docy/releases/download/v1.0.0/Docyy.apk)
 
 ---
 
+### 📬 Contact
 
-### 🌐 **Connect with Me**
-- [LinkedIn](https://www.linkedin.com/in/kislay-74000b228/)
-- [GitHub](https://github.com/fang69x)
-- [Twitter(X)](https://x.com/fang69x)
-- [Email](mailto:kislayk12@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kislay-74000b228/)
+- 🐦 [Twitter (X)](https://x.com/fang69x)
+- 📧 kislayk12@gmail.com
 
 ---
 
-Feel free to reach out or check out my repositories. Happy Coding! 🚀
+_Thanks for visiting!_ ✨  
