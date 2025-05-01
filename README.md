@@ -7,7 +7,7 @@
 
 ### 💼 About Me
 
-- 🎓 Final-year Electronics & Communication Engineering student @ JIIT (2021–2025)
+- 🎓 Final-year Engineering student @ JIIT (2021–2025)
 - 🛠 Building full-stack apps with **Flutter**, **Node.js**, **Express**, and **MongoDB**
 - 🔍 Exploring scalable backend architecture, CI/CD, and real-world API design
 - 📬 Actively looking for **SDE internships** and **full-time roles**
