@@ -1,56 +1,60 @@
-<h1 align="center">Hey 👋, I'm Kislay</h1>
+<h1 align="center">Hi there, I'm Kislay 👋</h1>
+
 <p align="center">
-  🚀 Full Stack Developer | Flutter & Node.js | Open to SDE Internships/Full-time Roles
+  <em>A results-oriented Software Engineer specializing in full-stack development with Flutter and Node.js. <br/> Actively seeking new opportunities for SDE Internships and Full-Time roles.</em>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/kislay">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kislayk12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/fang69x">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-### 💼 About Me
+### 💼 **Professional Experience**
 
-- 🎓 Final-year Engineering student @ JIIT (2021–2025)
-- 🛠 Building full-stack apps with **Flutter**, **Node.js**, **Express**, and **MongoDB**
-- 🔍 Exploring scalable backend architecture, CI/CD, and real-world API design
-- 📬 Actively looking for **SDE internships** and **full-time roles**
-
----
-
-### ⚙️ Tech Stack
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Riverpod](https://img.shields.io/badge/Riverpod-1C1E26?style=flat&logo=flutter&logoColor=white)
+**Software Engineer Intern** @ **Cyntra Techlabs Pvt. Ltd.** _(May 2025 - Present)_ 
+- Engineered a Digital Signage Android app using **Kotlin** and **MVVM**, featuring media streaming and intelligent background downloading.
+- Implemented a smart caching mechanism and API reporting for detailed playback analytics.
+- Developed automated tests with **Appium**, boosting testing efficiency by **40%** within an Agile SDLC.
 
 ---
 
-### 🧩 Featured Projects
+### 🚀 **Featured Projects**
 
-#### 🔖 [LinkVault](https://link-vault-avfk09q52-fang69xs-projects.vercel.app/) – Smart Bookmark Manager
-A full-stack web app to manage bookmarks with auth, tagging, search, and Flutter Web UI  
-Tech: `Flutter Web`, `Node.js`, `Express.js`, `MongoDB`, `JWT`, `Cloudinary`  
-🔗 [GitHub](https://github.com/fang69x/linkvault)
-
-#### 🛍️ [E-Commerce App](https://e-commerce-app-1mu2.vercel.app/) – Full-Stack E-Commerce Platform
-Flutter-based client app + Node.js/Express backend with a full-featured seller Admin Panel  
-Features: Product CRUD, search, filters, orders, Razorpay integration, OneSignal notifications  
-🔗 [GitHub](https://github.com/fang69x/eCommerceApp)
-
-#### 📄 [Docy](https://github.com/fang69x/Docy) – Document Management Mobile App
-Document scanner and organizer with Firebase + Node.js OTP auth  
-📥 [Download APK](https://github.com/fang69x/Docy/releases/download/v1.0.0/Docyy.apk)
+| Project                                    | Description                                                                                                                                                                | Tech Stack                                                     | Links                                                                                                                                            |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🔖 **LinkVault**                    | A secure bookmark manager with JWT authentication, CRUD operations, and personalized avatar uploads. Features a responsive front-end and a modular RESTful API. | `Flutter Web`, `Node.js`, `MongoDB`, `Riverpod`, `Vercel`          | [**GitHub**](https://github.com/fang69x/linkvault) <br/> [**Web App**](https://link-vault-avfk09q52-fang69xs-projects.vercel.app/)         |
+| 🛍️ **Full-Stack E-Commerce App**  | Architected a feature-rich platform with a Flutter client and a dedicated admin panel. Integrates secure payments, order tracking, and push notifications. | `Flutter`, `Node.js`, `MongoDB`, `Razorpay`, `OneSignal`       | [**GitHub (Client)**](https://github.com/fang69x/eCommerceApp) <br/> [**GitHub (Admin)**](https://github.com/fang69x/eCommerceApp)  |
+| 📄 **Docy**                           | A secure document management app with a real-time scanner. Implements custom OTP authentication via a Node.js backend and user-specific cloud storage.     | `Flutter`, `Firebase`, `Riverpod`, `Node.js`                     | [**GitHub**](https://github.com/fang69x/Docy) <br/> [**Download APK**](https://github.com/fang69x/Docy/releases/download/v1.0.0/Docyy.apk)        |
 
 ---
 
-### 📬 Contact
+### 🛠️ **Core Technologies**
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kislay-74000b228/)
-- 🐦 [Twitter (X)](https://x.com/fang69x)
-- 📧 kislayk12@gmail.com
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android SDK"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Appium-DA6262?style=flat-square&logo=appium&logoColor=white" alt="Appium"/>
+</p>
 
 ---
 
-_Thanks for visiting!_ ✨  
+### 🌱 **Achievements & Learning**
+
+-   **Problem Solving:** Solved **300+ problems** on LeetCode, strengthening my skills in DSA and algorithms.
+-   **Community:** Organized Flutter and Firebase workshops for **100+ students** and performed technical code reviews.
