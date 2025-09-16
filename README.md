@@ -3,7 +3,7 @@
 <p align="center">
   <em>A results-oriented Software Engineer specializing in full-stack development with Flutter and Node.js. <br/> Actively seeking new opportunities for SDE Internships and Full-Time roles.</em>
   <br/><br/>
-  <a href="[[https://www.linkedin.com/in/kislay](https://www.linkedin.com/in/kislay-74000b228/)](https://www.linkedin.com/in/kislay-74000b228/)">
+  <a href="https://www.linkedin.com/in/kislay-74000b228/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:kislayk12@gmail.com">
